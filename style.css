@@ -1,0 +1,30 @@
+body {
+    margin:0 15%;
+    padding-bottom:50px;
+    font-size:1.25em;
+    background-color:#F0FFFF;
+}
+figure{
+    width: 240px;
+    float: right;
+    clear: right;
+}
+
+h1{
+    font-size: 32px;
+}
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+    margin-top:1.5em;
+}
+table, tr, th, td {
+    border: 1px solid black;
+}
+.soder{
+    border:1px solid blue;
+    background-color: #AFEEEE;
+    padding:0 10px;
+}
+figcaption{
+    font-style:italic;
+}
